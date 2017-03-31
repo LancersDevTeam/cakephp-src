@@ -1,34 +1,34 @@
-= データベース & ORM =
+# データベース & ORM
 
 データベースと ORM の基本をおさらいしてから、クエリビルダのソースコードを読む。
 
-=== 入門 ===
+## 入門
 
-CakePHP 3.4 Cookbook
+### CakePHP 3.4 Cookbook
 https://book.cakephp.org/3.0/ja
 
-データベースアクセス & ORM
+### データベースアクセス & ORM
 https://book.cakephp.org/3.0/ja/orm.html
 
  * テーブルクラス
  * エンティティクラス
  * クエリ
 
-クエリビルダ
+### クエリビルダ
 https://book.cakephp.org/3.0/ja/orm/query-builder.html
 
  * クエリはコレクションオブジェクトである
  * クエリが遅延評価される仕組み
 
-データベースの基本
+### データベースの基本
 https://book.cakephp.org/3.0/ja/orm/database-basics.html
 
  * コネクション管理クラス
  * コネクションクラス
 
-=== ソースコードのファイル構成 ===
+## ソースコードのファイル構成
 
-CakePHP Framework
+### CakePHP Framework
 https://github.com/cakephp/cakephp
 
 ```
@@ -41,7 +41,7 @@ src/
                  https://github.com/cakephp/cakephp/blob/master/src/ORM/README.md
 ```
 
-CakePHP Application Skeleton
+### CakePHP Application Skeleton
 https://github.com/cakephp/app
 
 ```
