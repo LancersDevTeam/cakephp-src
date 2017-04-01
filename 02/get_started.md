@@ -56,7 +56,7 @@ src/
 ```
 find
   callFinder
-    Behavior(s)
+    BehaviorRegistry, Behavior(s)
     findAll
     findList
     findThreaded
@@ -67,7 +67,7 @@ find
  
  ```
  __call
-   Behavior(s)
+   BehaviorRegistry, Behavior(s)
    dynamicFinder
      find
  ```
