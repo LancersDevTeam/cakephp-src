@@ -50,3 +50,24 @@ src/
   Entity/     -- https://api.cakephp.org/3.4/class-Cake.ORM.Entity.html
   Table/      -- https://api.cakephp.org/3.4/class-Cake.ORM.Table.html
 ```
+
+## Table.find
+
+```
+find
+  callFinder
+    Behavior(s)
+    findAll
+    findList
+    findThreaded
+    findFirst is Obsolete
+ ```
+  
+ ## Table.findXxxByXXX
+ 
+ ```
+ __call
+   Behavior(s)
+   dynamicFinder
+     find
+ ```
