@@ -71,3 +71,42 @@ find
    dynamicFinder
      find
  ```
+
+## Query
+
+```
+Table.query
+  repository -- Table
+  addDefaultTypes -- Database\TypeMap from Database\Schema\TableSchema
+  select
+```
+
+```
+all
+  QueryTrait.all -- query cache
+  QueryTrait._execute -- Query._execute
+  Database\Query.execute
+```
+
+```
+Database\Connection.run
+  Database\Connection.prepare -- _logQueries
+  Database\Dirver\Mysql.prepare -- PDODriverTrait, PDO Connection
+    MysqlStatement(PDOStatemaent)
+    Query.valueBinder.attachTo(MysqlStatement) -- Database\ValueBinder
+    MysqlStatement.execute -- returnd MysqlStatement
+    Database\Connection.driver
+    .getSelectTypeMap
+    decorateResults, FieldTypeConverter
+    _decorateStatement -- ResultSetDecorator(MysqlStatement) extends Collection\Collection
+```
+
+```
+Database\Query.getIterator -- IteratorAggregate
+  .execute
+```
+
+```
+ORM\Query.getIterator -- QueryTrait
+  all
+```
