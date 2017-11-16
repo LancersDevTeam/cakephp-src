@@ -1,2 +1,2 @@
- - [¥³¥ì¥¯¥·¥ç¥ó](https://book.cakephp.org/3.0/ja/core-libraries/collections.html)
+ - [ã‚³ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³](https://book.cakephp.org/3.0/ja/core-libraries/collections.html)
  - [Hash](https://book.cakephp.org/3.0/ja/core-libraries/hash.html)
