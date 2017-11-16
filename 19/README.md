@@ -1,1 +1,1 @@
- - [¥ß¥É¥ë¥¦¥§¥¢](https://book.cakephp.org/3.0/ja/controllers/middleware.html)
+ - [ãƒŸãƒ‰ãƒ«ã‚¦ã‚§ã‚¢](https://book.cakephp.org/3.0/ja/controllers/middleware.html)
