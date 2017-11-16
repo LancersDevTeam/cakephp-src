@@ -1,2 +1,2 @@
  - [コレクション](https://book.cakephp.org/3.0/ja/core-libraries/collections.html)
- - [ミドルウェア](https://book.cakephp.org/3.0/ja/controllers/middleware.html)
+ - [Hash](https://book.cakephp.org/3.0/ja/core-libraries/hash.html)
