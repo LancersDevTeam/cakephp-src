@@ -1,1 +1,2 @@
  - [ミドルウェア](https://book.cakephp.org/3.0/ja/controllers/middleware.html)
+ - [キャッシュ](https://book.cakephp.org/3.0/ja/core-libraries/caching.html)
