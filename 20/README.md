@@ -1,2 +1,1 @@
  - [Migrations](https://book.cakephp.org/3.0/ja/migrations.html)
- - [Chronos](https://book.cakephp.org/3.0/ja/chronos.html)
