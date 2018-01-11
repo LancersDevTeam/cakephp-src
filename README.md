@@ -1,12 +1,67 @@
-# CakePHP3.4 ソースコードリーディング
+# CakePHP 3.xクックブック & ソースコードリーディング
 
-CakePHPも新たに3.4.0がリリースされたこのタイミングで、改めて、CakePHPのソースを読んでいこうと思います。
+「[CakePHP 3.5 Red Velvet Cookbook](https://book.cakephp.org/3.0/ja/contents.html)」、CakePHPの[Official Repository](https://github.com/cakephp/cakephp)、[application template](https://github.com/cakephp/app)を読みながら疑問に思ったこと等を話しあい理解を深める勉強会です。
 
-- https://github.com/cakephp/cakephp
-- https://github.com/cakephp/app
+基本的にはクックブックを朗読しつつソースコードを読むスタイルです。 次回の内容などもその場で決めます。 ゆるーい感じでワイワイとやっていければと思います。
 
-基本的には担当者が調べたことを発表するスタイルです。 次回の発表内容/担当者とかもその場で決めます。 ゆるーい感じでワイワイとやっていければと思います。
+はじめに
+- [ ] CakePHP 概要
+- [ ] クイックスタートガイド
+- [x] 3.X 移行ガイド
+- [ ] チュートリアルと例
+- [ ] 貢献
 
-- [第01回目: リクエストのライフサイクル (2017-03-22)](https://github.com/LancersDevTeam/cakephp-src/blob/master/01/request_cycle.md)
-- [第02回目: ORMパッケージ 参照系 (2017-04-04)](https://github.com/LancersDevTeam/cakephp-src/blob/master/02/get_started.md/)
-- [第03回目: ORMパッケージ 更新系 (2017-06-22)](https://github.com/LancersDevTeam/cakephp-src/blob/master/03/README.md)
+入門
+- [ ] インストール
+- [ ] 構成設定
+- [x] ルーティング
+- [ ] リクエストとレスポンスオブジェクト
+- [x] ミドルウェア
+- [ ] コントローラー
+- [x] ビュー
+- [x] データベースアクセス & ORM
+
+一般的なトピック
+- [ ] 認証
+- [ ] Bake コンソール
+- [x] キャッシュ
+- [ ] コンソールツール、シェルとタスク
+- [x] デバッグ
+- [x] デプロイ
+- [ ] Email
+- [ ] エラーと例外の処理
+- [ ] イベントシステム
+- [ ] 国際化と地域化
+- [x] ロギング
+- [x] モデルのないフォーム
+- [x] ページネーション
+- [x] プラグイン
+- [ ] REST
+- [ ] セキュリティ
+- [ ] セッション
+- [ ] テスト
+- [x] バリデーション
+
+ユーティリティ
+- [ ] Appクラス
+- [x] コレクション
+- [ ] Folder & File
+- [x] Hash
+- [ ] Http Client
+- [ ] Inflector
+- [ ] Number
+- [ ] レジストリーオブジェクト
+- [ ] Text
+- [x] 日付と時刻
+- [ ] Xml
+
+プラグイン
+- [x] Chronos
+- [ ] Debug Kit
+- [x] Migrations
+- [ ] ElasticSearch
+- [ ] アップグレードツール
+
+その他
+- [x] 定数および関数
+- [ ] 付録

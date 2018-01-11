@@ -1,1 +1,5 @@
- - [Chronos](https://book.cakephp.org/3.0/ja/chronos.html)
+- [日付と時刻](https://book.cakephp.org/3.0/ja/core-libraries/time.html)
+- [Chronos](https://book.cakephp.org/3.0/ja/chronos.html)
+- [デプロイ](https://book.cakephp.org/3.0/ja/deployment.html)
+- [デバッグ](https://book.cakephp.org/3.0/ja/development/debugging.html)
+- [定数および関数 グローバル関数](https://book.cakephp.org/3.0/ja/core-libraries/global-constants-and-functions.html#id2)
