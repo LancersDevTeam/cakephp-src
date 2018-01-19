@@ -1,0 +1,2 @@
+- [認証](https://book.cakephp.org/3.0/ja/controllers/components/authentication.html)
+  - [認可](https://book.cakephp.org/3.0/ja/controllers/components/authentication.html#authorization-objects)
