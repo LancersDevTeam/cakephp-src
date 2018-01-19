@@ -1,2 +1,5 @@
 - [認証](https://book.cakephp.org/3.0/ja/controllers/components/authentication.html)
   - [認可](https://book.cakephp.org/3.0/ja/controllers/components/authentication.html#authorization-objects)
+- [Bake コンソール](https://book.cakephp.org/3.0/ja/bake.html)
+  - [Bake でコード生成](https://book.cakephp.org/3.0/ja/bake/usage.html)
+  - [Bake の拡張](https://book.cakephp.org/3.0/ja/bake/development.html)
