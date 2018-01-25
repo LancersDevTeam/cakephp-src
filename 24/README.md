@@ -1,0 +1,3 @@
+- [Email](https://book.cakephp.org/3.0/ja/core-libraries/email.html)
+  - [メッセージの即時送信](https://book.cakephp.org/3.0/ja/core-libraries/email.html#id12)
+- [コンソールツール、シェルとタスク](https://book.cakephp.org/3.0/ja/console-and-shells.html)

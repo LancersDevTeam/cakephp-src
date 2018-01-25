@@ -3,3 +3,6 @@
 - [Bake コンソール](https://book.cakephp.org/3.0/ja/bake.html)
   - [Bake でコード生成](https://book.cakephp.org/3.0/ja/bake/usage.html)
   - [Bake の拡張](https://book.cakephp.org/3.0/ja/bake/development.html)
+- [テスト](https://book.cakephp.org/3.0/ja/development/testing.html)
+  - [認証が必要なアクションのテスト](https://book.cakephp.org/3.0/ja/development/testing.html#testing-authentication)
+- [Email](https://book.cakephp.org/3.0/ja/core-libraries/email.html)
