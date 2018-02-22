@@ -1,0 +1,2 @@
+- [国際化と地域化](https://book.cakephp.org/3.0/ja/core-libraries/internationalization-and-localization.html)
+- [REST](https://book.cakephp.org/3.0/ja/development/rest.html)
