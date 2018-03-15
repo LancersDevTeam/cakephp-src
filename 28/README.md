@@ -1,0 +1,5 @@
+- [セキュリティ](https://book.cakephp.org/3.0/ja/security.html)
+  - [セキュリティ](https://book.cakephp.org/3.0/ja/core-libraries/security.html)
+  - [クロスサイトリクエストフォージェリ](https://book.cakephp.org/3.0/ja/controllers/components/csrf.html)
+  - [Security コンポーネント](https://book.cakephp.org/3.0/ja/controllers/components/security.html)
+- [セッション](https://book.cakephp.org/3.0/ja/development/sessions.html)
