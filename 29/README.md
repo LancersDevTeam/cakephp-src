@@ -1,0 +1,3 @@
+- [セッション](https://book.cakephp.org/3.0/ja/development/sessions.html)
+  - [セッションハンドラー](https://book.cakephp.org/3.0/ja/development/sessions.html#id4)から
+- [テスト](https://book.cakephp.org/3.0/ja/development/testing.html)
