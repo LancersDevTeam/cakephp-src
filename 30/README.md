@@ -1,0 +1,3 @@
+- [テスト](https://book.cakephp.org/3.0/ja/development/testing.html)
+  - [暗号化されたクッキーを使用したテスト](https://book.cakephp.org/3.0/ja/development/testing.html#id24)から
+- [リクエストとレスポンスオブジェクト](https://book.cakephp.org/3.0/ja/controllers/request-response.html)
