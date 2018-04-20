@@ -1,3 +1,5 @@
 - [リクエストとレスポンスオブジェクト](https://book.cakephp.org/3.0/ja/controllers/request-response.html)
   - [XML または JSON データ](https://book.cakephp.org/3.0/ja/controllers/request-response.html#xml-json)から
 - [コントローラー](https://book.cakephp.org/3.0/ja/controllers.html)
+  - [ページコントローラー](https://book.cakephp.org/3.0/ja/controllers/pages-controller.html)
+  - [コンポーネント](https://book.cakephp.org/3.0/ja/controllers/components.html)
