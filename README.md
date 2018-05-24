@@ -48,16 +48,16 @@
 - [x] Folder & File
 - [x] Hash
 - [x] Http Client
-- [ ] Inflector
-- [ ] Number
-- [ ] レジストリーオブジェクト
+- [x] Inflector
+- [x] Number
+- [x] レジストリーオブジェクト
 - [ ] Text
 - [x] 日付と時刻
 - [ ] Xml
 
 プラグイン
 - [x] Chronos
-- [ ] Debug Kit
+- [x] Debug Kit
 - [x] Migrations
 - [ ] ElasticSearch
 - [ ] アップグレードツール
