@@ -1,6 +1,6 @@
 - [3.x 移行ガイド](https://book.cakephp.org/3.0/ja/appendices/3-x-migration-guide.html)
   - [新 ORM アップグレードガイド](https://book.cakephp.org/3.0/ja/appendices/orm-migration.html)
-    - [Recursive と ContainableBehavior の削除](https://book.cakephp.org/3.0/ja/appendices/orm-migration.html#recursive-containablebehavior)
+    - [Recursive と ContainableBehavior の削除](https://book.cakephp.org/3.0/ja/appendices/orm-migration.html#recursive-containablebehavior)から
   - [3.0 移行ガイド](https://book.cakephp.org/3.0/ja/appendices/3-0-migration-guide.html)
   - [3.6 移行ガイド](https://book.cakephp.org/3.0/ja/appendices/3-6-migration-guide.html)
 - [CakePHP の開発プロセス](https://book.cakephp.org/3.0/ja/appendices/cakephp-development-process.html)
