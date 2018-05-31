@@ -3,4 +3,5 @@
 - [Xml](https://book.cakephp.org/3.0/ja/core-libraries/xml.html)
 - [ElasticSearch](https://book.cakephp.org/3.0/ja/elasticsearch.html)
 - [アップグレードツール](https://book.cakephp.org/3.0/ja/upgrade-tool.html)
-
+- [3.x 移行ガイド](https://book.cakephp.org/3.0/ja/appendices/3-x-migration-guide.html)
+  - [新 ORM アップグレードガイド](https://book.cakephp.org/3.0/ja/appendices/orm-migration.html)
