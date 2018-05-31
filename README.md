@@ -51,16 +51,16 @@
 - [x] Inflector
 - [x] Number
 - [x] レジストリーオブジェクト
-- [ ] Text
+- [x] Text
 - [x] 日付と時刻
-- [ ] Xml
+- [x] Xml
 
 プラグイン
 - [x] Chronos
 - [x] Debug Kit
 - [x] Migrations
-- [ ] ElasticSearch
-- [ ] アップグレードツール
+- [x] ElasticSearch
+- [x] アップグレードツール
 
 その他
 - [x] 定数および関数
