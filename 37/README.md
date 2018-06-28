@@ -1,0 +1,5 @@
+- [3.x 移行ガイド](https://book.cakephp.org/3.0/ja/appendices/3-x-migration-guide.html)
+  - [3.0 移行ガイド](https://book.cakephp.org/3.0/ja/appendices/3-0-migration-guide.html)
+    - [ビュー](https://book.cakephp.org/3.0/ja/appendices/3-0-migration-guide.html#id26)
+  - [3.6 移行ガイド](https://book.cakephp.org/3.0/ja/appendices/3-6-migration-guide.html)
+- [Phinx マイグレーション](https://book.cakephp.org/3.0/ja/phinx.html)
