@@ -1,0 +1,7 @@
+- [Phinx マイグレーション](https://book.cakephp.org/3.0/ja/phinx.html)
+  - [マイグレーションを書く](https://book.cakephp.org/3.0/ja/phinx/migrations.html)
+    - [カラム一覧の取得](https://book.cakephp.org/3.0/ja/phinx/migrations.html#id17)から
+  - [データベースの初期データ投入](https://book.cakephp.org/3.0/ja/phinx/seeding.html)
+  - [コマンド](https://book.cakephp.org/3.0/ja/phinx/commands.html)
+  - [構成設定](https://book.cakephp.org/3.0/ja/phinx/configuration.html)
+- [貢献](https://book.cakephp.org/3.0/ja/contributing.html)
